@@ -7,5 +7,5 @@ if(a % 2 == 0)
 }
 else
 {
-    Console.WriteLine("Это нечисло четное.");
+    Console.WriteLine("Это нечетное число.");
 }
