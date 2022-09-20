@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿// Найти максимальное из трех чисел.
+Console.Clear();
 Console.WriteLine("Введите первое число:");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число:");
